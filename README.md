@@ -12,14 +12,15 @@ Hi, I'm Brian-Njuguna, a passionate full stack developer with a strong proficien
 ## Technical Skills
 ### Front-end
 
-* **React** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
 * **HTML** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 * **CSS** ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 * **JavaScript (ES6+)** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+* **React** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 * **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 * **Daisy UI** ![Daisy UI](https://img.shields.io/badge/Daisy%20UI-38B2AC?style=for-the-badge&logo=daisyui&logoColor=white)
 * **Flowbite** ![Flowbite](https://img.shields.io/badge/Flowbite-3498DB?style=for-the-badge&logo=flowbite&logoColor=white)
-
+* **Vite** ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Back-end
 
