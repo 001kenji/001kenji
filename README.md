@@ -46,12 +46,14 @@ Hi, I'm Brian-Njuguna, a passionate full stack developer with a strong proficien
 * **Ubuntu Linux** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 * **Vercel** ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 * **Netlify** ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+* **Postman** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+* **Chrome DevTools** ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 
 ## Projects
 Check out some of my notable projects:
 
-* Jumia Replica (https://github.com/001kenji/Frontend-Clone-Jumia)
+* Job Application (https://github.com/001kenji/Job-Application.git)
 * A Business Website (https://github.com/001kenji/Interior-plus)
 * Medical Center (https://github.com/001kenji/Medicators)
 
