@@ -33,6 +33,7 @@ Hi, I'm Brian-Njuguna, a passionate full stack developer with a strong proficien
 * **PostgreSQL** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 * **Redis** ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
+
 ### Version Control
 
 * **Git** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,7 +49,7 @@ Hi, I'm Brian-Njuguna, a passionate full stack developer with a strong proficien
 * **Netlify** ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 * **Postman** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 * **Chrome DevTools** ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-
+* **pgAdmin4** ![pgAdmin4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=pgadmin&logoColor=white)
 
 ## Projects
 Check out some of my notable projects:
