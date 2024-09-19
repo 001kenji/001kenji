@@ -50,7 +50,9 @@ Hi, I'm Brian-Njuguna, a passionate full stack developer with a strong proficien
 * **Postman** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 * **Chrome DevTools** ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 * **pgAdmin4** ![pgAdmin4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=pgadmin&logoColor=white)
-
+## Roadmap Card
+  [![roadmap.sh](https://roadmap.sh/card/tall/65007d945ce9f4ca58ba3564?variant=dark)](https://roadmap.sh)
+  
 ## Projects
 Check out some of my notable projects:
 
