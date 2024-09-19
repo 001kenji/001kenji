@@ -51,7 +51,7 @@ Hi, I'm Brian-Njuguna, a passionate full-stack developer with a strong proficien
 * **Chrome DevTools** ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 * **pgAdmin4** ![pgAdmin4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=pgadmin&logoColor=white)
 ## Roadmap Card
-  [![roadmap.sh](https://roadmap.sh/card/tall/65007d945ce9f4ca58ba3564?variant=dark)](https://roadmap.sh)
+  [![roadmap.sh](https://roadmap.sh/card/tall/65007d945ce9f4ca58ba3564?variant=dark)](https://roadmap.sh/u/001kenji)
   
   * **Roadmap Profile** : [Brian Njuguna](https://roadmap.sh/u/001kenji)
 ## Projects
