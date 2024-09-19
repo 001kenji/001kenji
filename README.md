@@ -53,6 +53,7 @@ Hi, I'm Brian-Njuguna, a passionate full stack developer with a strong proficien
 ## Roadmap Card
   [![roadmap.sh](https://roadmap.sh/card/tall/65007d945ce9f4ca58ba3564?variant=dark)](https://roadmap.sh)
   
+  * **Roadmap Profile** : [Brian Njuguna](https://roadmap.sh/u/001kenji)
 ## Projects
 Check out some of my notable projects:
 
