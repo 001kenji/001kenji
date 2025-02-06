@@ -54,12 +54,7 @@ Hi, I'm Brian-Njuguna, a passionate full-stack developer with a strong proficien
   [![roadmap.sh](https://roadmap.sh/card/tall/65007d945ce9f4ca58ba3564?variant=dark)](https://roadmap.sh/u/001kenji)
   
   * **Roadmap Profile** : [Brian Njuguna](https://roadmap.sh/u/001kenji)
-## Projects
-Check out some of my notable projects:
 
-* Job Application (https://github.com/001kenji/Job-Application.git)
-* A Business Website (https://github.com/001kenji/Interior-plus)
-* Medical Center (https://github.com/001kenji/Medicators)
 
 ## Get in Touch
 Feel free to reach out to me on:
