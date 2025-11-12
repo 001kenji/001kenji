@@ -21,6 +21,5 @@ Hi, I'm Brian-Njuguna, a passionate full-stack developer with a strong proficien
 
 | Category         | Details                                                                                                                                         |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| **🛣️ Roadmap**    | [![roadmap.sh](https://roadmap.sh/card/tall/65007d945ce9f4ca58ba3564?variant=dark)](https://roadmap.sh/u/001kenji)<br>**Profile**: [Brian Njuguna](https://roadmap.sh/u/001kenji) |
 | **📬 Get in Touch** | **GitHub**: [github.com/001kenji](https://github.com/001kenji)<br>**Email**: [briannjuguna694@gmail.com](mailto:briannjuguna694@gmail.com)<br>**Facebook**: [facebook.com/profile.php?id=61554162522919](https://www.facebook.com/profile.php?id=61554162522919) |
 
