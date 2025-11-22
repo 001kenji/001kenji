@@ -1,10 +1,6 @@
 ## About Me
 Hi, I'm Brian-Njuguna, a passionate full-stack developer with a strong proficiency in building scalable, efficient, secure, and visually appealing applications. With a solid foundation in both front-end and back-end development, I'm always looking to expand my skill set and take on new challenges.
 
-- 🔭 I’m currently working on FullStack applications 
-- 🌱 I’m currently learning Linux, AI
-- 😄 Pronouns: he/him
-
 ## Technical Skills
 
 | Category          | Skills & Technologies |
