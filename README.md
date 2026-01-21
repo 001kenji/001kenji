@@ -1,7 +1,7 @@
 # Brian Njuguna | Full-Stack Developer & AI Engineer
 
 A passionate full-stack developer specializing in building scalable, efficient, and visually appealing applications. Currently expanding expertise in Machine Learning and AI systems development. Open to projects, collaborations, and meaningful tech discussions.
-
+- **Portfolio**: [Brian njuguna](https://briannjuguna.netlify.app/)
 ## 🛠️ Technical Stack
 
 ### 🤖 AI & Machine Learning
