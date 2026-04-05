@@ -1,54 +1,34 @@
-# Brian Njuguna | Full-Stack Developer & AI Engineer
+# Brian Njuguna
 
-A passionate full-stack developer specializing in building scalable, efficient, and visually appealing applications. Currently expanding expertise in Machine Learning and AI systems development. Open to projects, collaborations, and meaningful tech discussions.
-- **Portfolio**: [Brian njuguna](https://briannjuguna.netlify.app/)
-## 🛠️ Technical Stack
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=ECEFF4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Engineer;3D+Enthusiast;Building+the+Future&letterSpacing=2" alt="Typing Animation" />
+</div>
+<br />
 
-### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-000000?style=for-the-badge&logo=stabilityai&logoColor=white)
+<div align="center">
+  <a href="https://briannjuguna.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00FFAA?style=for-the-badge&logo=vercel&logoColor=black&color=#0D1117&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/001kenji">
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFAA&color=0D1117&labelColor=0D1117" />
+  </a>
+  <a href="mailto:briannjuguna694@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFAA&color=0D1117" />
+  </a>
+</div>
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br />
 
-### ⚙️ Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 📬 Let's Connect
-
-I'm currently open to:
-- 🤝 Interesting projects and collaborations
-- 💡 Technical discussions about AI/ML systems
-- 📈 Professional opportunities
-- 🎯 Any relevant agenda
-
-**Contact Me:**
-- **GitHub**: [github.com/001kenji](https://github.com/001kenji)
-- **Email**: [briannjuguna694@gmail.com](mailto:briannjuguna694@gmail.com)
-- **Phone**: +254723700284
-- **Facebook**: [Brian Njuguna](https://www.facebook.com/profile.php?id=61554162522919)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=4&width=100%" />
+</div>
 
 ---
 
-*Always learning, always building. Let's create something amazing together!*
+## About Me
+
+<div align="center">
+  
+  ![Terminal Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=500&color=FFFFFF&background=000000&width=950&height=280&lines=%5Buser%40brian%5D%24+whoami;+%20%20%20%20%3E+Brian+Njuguna+-+Full-Stack+Developer+%26+AI+Engineer;%5Buser%40brian%5D%24+skills+--level%3Dexpert;+%20%20%20%20%3E+React+%E2%80%A2+Vue+%E2%80%A2+Angular+%E2%80%A2+JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Django+%E2%80%A2+Flask;%5Buser%40brian%5D%24+skills+--level%3Dadvanced;+%20%20%20%20%3E+TensorFlow+%E2%80%A2+PyTorch+%E2%80%A2+FastAPI+%E2%80%A2+Redis+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;%5Buser%40brian%5D%24+status+--current;+%20%20%20%20%3E+Building+AI-powered+applications+%26+training+machine+learning+models;%5Buser%40brian%5D%24+contact+--methods;+%20%20%20%20%3E+GitHub%3A+%40001kenji+%7C+Email%3A+briannjuguna694%40gmail.com&center=false&vCenter=true&multiline=true&repeat=true&pause=1000&letterSpacing=normal)
+  
+</div>
